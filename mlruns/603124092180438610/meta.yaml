@@ -1,0 +1,6 @@
+artifact_location: file:///home/ahmad17/Desktop/task7/mlruns/603124092180438610
+creation_time: 1739186015226
+experiment_id: '603124092180438610'
+last_update_time: 1739186015226
+lifecycle_stage: active
+name: telcoChurn_prediction

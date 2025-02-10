@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ahmad17/Desktop/task7/mlruns/603124092180438610/360ddec9da3a47e29d2c33c0de11992f/artifacts
+end_time: 1739186040417
+entry_point_name: ''
+experiment_id: '603124092180438610'
+lifecycle_stage: active
+run_id: 360ddec9da3a47e29d2c33c0de11992f
+run_name: logistic_regression
+run_uuid: 360ddec9da3a47e29d2c33c0de11992f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739186033034
+status: 3
+tags: []
+user_id: ahmad17

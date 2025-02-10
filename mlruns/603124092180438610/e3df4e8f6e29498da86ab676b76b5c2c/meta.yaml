@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ahmad17/Desktop/task7/mlruns/603124092180438610/e3df4e8f6e29498da86ab676b76b5c2c/artifacts
+end_time: 1739186025471
+entry_point_name: ''
+experiment_id: '603124092180438610'
+lifecycle_stage: active
+run_id: e3df4e8f6e29498da86ab676b76b5c2c
+run_name: random_forest
+run_uuid: e3df4e8f6e29498da86ab676b76b5c2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739186015263
+status: 3
+tags: []
+user_id: ahmad17

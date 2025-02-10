@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ahmad17/Desktop/task7/mlruns/603124092180438610/92395e676d3a45b2ba424ca22f20fd83/artifacts
+end_time: 1739186033030
+entry_point_name: ''
+experiment_id: '603124092180438610'
+lifecycle_stage: active
+run_id: 92395e676d3a45b2ba424ca22f20fd83
+run_name: gradient_boosting
+run_uuid: 92395e676d3a45b2ba424ca22f20fd83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739186025475
+status: 3
+tags: []
+user_id: ahmad17
